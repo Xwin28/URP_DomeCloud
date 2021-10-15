@@ -514,3 +514,4 @@ Received Import Request.
 Start importing Assets/DomeClound/Material/Dome_CloudSky.shadergraph using Guid(186b6b8a69ccb3746ae16456c3804921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ef6de93004a37c0e8c78125d95df20') in 0.046093 seconds 
   Import took 0.070662 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
